@@ -58,4 +58,4 @@ tech. ( Issue for me plz )
 
 ## Time Tracking with Code
 
-<em><img src="https://wakatime.com/share/@be99inner/985648e2-0b01-408f-9d8e-1846297db78d.svg" alt="code stats"></em>
+<em><img src="https://wakatime.com/share/@be99inner/a264c4ff-736c-4bc1-9683-78c85331dd04.svg" alt="code stats"></em>
