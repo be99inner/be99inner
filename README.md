@@ -55,3 +55,7 @@ It's stand for big and beginner in the same time. 🤪 be(9)9inner.
 
 I love to learn new tech. I'm happy if you can guide me for a new interesting
 tech. ( Issue for me plz )
+
+## Time Tracking with Code
+
+<figure><embed src="https://wakatime.com/share/@be99inner/ba976754-19fe-469b-a798-0bb2508be627.svg"></embed></figure>
