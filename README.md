@@ -58,4 +58,8 @@ tech. ( Issue for me plz )
 
 ## Time Tracking with Code
 
+### Github
+<em><img src="https://github-readme-stats.vercel.app/api?username=be99inner&show_icons=true&theme=dracula" alt="github stats"></em>
+
+### Wakatime
 <em><img src="https://wakatime.com/share/@be99inner/53ff60f8-7211-4e40-a02f-0c55552e5480.svg" alt="code stats"></em>
