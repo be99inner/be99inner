@@ -62,4 +62,7 @@ tech. ( Issue for me plz )
 <em><img src="https://github-readme-stats.vercel.app/api?username=be99inner&show_icons=true&theme=dracula" alt="github stats"></em>
 
 ### Wakatime
+
+Time tracking of Wakatime is included with private contribution ([Github](https://github.com/be99inner) + [Gitlab](https://gitlab.com/be99inner)).
+
 <em><img src="https://wakatime.com/share/@be99inner/53ff60f8-7211-4e40-a02f-0c55552e5480.svg" alt="code stats"></em>
