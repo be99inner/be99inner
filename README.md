@@ -65,4 +65,4 @@ tech. ( Issue for me plz )
 
 Time tracking of Wakatime is included with private contribution ([Github](https://github.com/be99inner) + [Gitlab](https://gitlab.com/be99inner)).
 
-<em><img src="https://wakatime.com/share/@be99inner/53ff60f8-7211-4e40-a02f-0c55552e5480.svg" alt="code stats"></em>
+<em><img src="https://wakatime.com/share/@be99inner/22186634-8449-4628-b262-f42f9a2e35a3.svg" alt="code stats"></em>
